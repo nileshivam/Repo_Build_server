@@ -1,0 +1,66 @@
+05/14/2017 6:14:59 PM: Starting to load dll file with name:../../../THStorage/TestDriver1.dll
+
+05/14/2017 6:14:59 PM:  attempting to create instance of {0}SampleTest.TestDriver1
+
+05/14/2017 6:14:59 PM: The Result of this test:Passed
+
+05/14/2017 6:14:59 PM: Starting to load dll file with name:../../../THStorage/TestDriver2.dll
+
+05/14/2017 6:14:59 PM:  attempting to create instance of {0}SampleTest.TestDriver2
+
+05/14/2017 6:14:59 PM: The Result of this test:Passed
+
+06/51/2017 8:51:06 PM: Starting to load dll file with name:../../../THStorage/TestDriver1.dll
+
+06/51/2017 8:51:06 PM:  attempting to create instance of {0}SampleTest.TestDriver1
+
+06/51/2017 8:51:06 PM: The Result of this test:Passed
+
+06/51/2017 8:51:15 PM: Starting to load dll file with name:../../../THStorage/TestDriver1.dll
+
+06/51/2017 8:51:15 PM:  attempting to create instance of {0}SampleTest.TestDriver1
+
+06/51/2017 8:51:15 PM: The Result of this test:Passed
+
+06/51/2017 8:51:15 PM: Starting to load dll file with name:../../../THStorage/TestDriver2.dll
+
+06/51/2017 8:51:15 PM:  attempting to create instance of {0}SampleTest.TestDriver2
+
+06/51/2017 8:51:15 PM: The Result of this test:Passed
+
+06/25/2017 10:25:17 PM: Starting to load dll file with name:../../../THStorage/TestDriver1.dll
+
+06/25/2017 10:25:17 PM:  attempting to create instance of {0}SampleTest.TestDriver1
+
+06/25/2017 10:25:18 PM: The Result of this test:Passed
+
+06/25/2017 10:25:22 PM: Starting to load dll file with name:../../../THStorage/TestDriver1.dll
+
+06/25/2017 10:25:22 PM:  attempting to create instance of {0}SampleTest.TestDriver1
+
+06/25/2017 10:25:22 PM: The Result of this test:Passed
+
+06/25/2017 10:25:22 PM: Starting to load dll file with name:../../../THStorage/TestDriver2.dll
+
+06/25/2017 10:25:22 PM:  attempting to create instance of {0}SampleTest.TestDriver2
+
+06/25/2017 10:25:22 PM: The Result of this test:Passed
+
+06/29/2017 11:29:19 PM: Starting to load dll file with name:../../../THStorage/TestDriver1.dll
+
+06/29/2017 11:29:19 PM:  attempting to create instance of {0}SampleTest.TestDriver1
+
+06/29/2017 11:29:20 PM: The Result of this test:Passed
+
+06/29/2017 11:29:25 PM: Starting to load dll file with name:../../../THStorage/TestDriver1.dll
+
+06/29/2017 11:29:25 PM:  attempting to create instance of {0}SampleTest.TestDriver1
+
+06/29/2017 11:29:25 PM: The Result of this test:Passed
+
+06/29/2017 11:29:25 PM: Starting to load dll file with name:../../../THStorage/TestDriver2.dll
+
+06/29/2017 11:29:25 PM:  attempting to create instance of {0}SampleTest.TestDriver2
+
+06/29/2017 11:29:25 PM: The Result of this test:Passed
+

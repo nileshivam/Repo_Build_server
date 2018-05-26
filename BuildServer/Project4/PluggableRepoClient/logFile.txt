@@ -1,0 +1,30 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Thu Oct 26 17:45:59 2017
+     Path: "C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient"
+     Args: Window1.xaml.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1       5
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+           Window1.xaml.cs   namespace                PluggableRepoClient      36      32       4
+           Window1.xaml.cs       class                            Window1      41      27       3
+           Window1.xaml.cs    function                            Window1      46      15       1
+           Window1.xaml.cs    function                   exitButton_Click      63       3       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     7 dirs
+   processed     1 files

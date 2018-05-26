@@ -1,0 +1,13 @@
+C:\Users\dwive\source\repos\Project3V1\MotherBuilder\bin\Debug\MotherBuilder.exe.config
+C:\Users\dwive\source\repos\Project3V1\MotherBuilder\bin\Debug\MotherBuilder.exe
+C:\Users\dwive\source\repos\Project3V1\MotherBuilder\bin\Debug\MotherBuilder.pdb
+C:\Users\dwive\source\repos\Project3V1\MotherBuilder\bin\Debug\IService.dll
+C:\Users\dwive\source\repos\Project3V1\MotherBuilder\bin\Debug\MessagePassingCommService.exe
+C:\Users\dwive\source\repos\Project3V1\MotherBuilder\bin\Debug\IService.pdb
+C:\Users\dwive\source\repos\Project3V1\MotherBuilder\bin\Debug\IService.dll.config
+C:\Users\dwive\source\repos\Project3V1\MotherBuilder\bin\Debug\MessagePassingCommService.pdb
+C:\Users\dwive\source\repos\Project3V1\MotherBuilder\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\dwive\source\repos\Project3V1\MotherBuilder\obj\Debug\MotherBuilder.csprojResolveAssemblyReference.cache
+C:\Users\dwive\source\repos\Project3V1\MotherBuilder\obj\Debug\MotherBuilder.csproj.CoreCompileInputs.cache
+C:\Users\dwive\source\repos\Project3V1\MotherBuilder\obj\Debug\MotherBuilder.exe
+C:\Users\dwive\source\repos\Project3V1\MotherBuilder\obj\Debug\MotherBuilder.pdb

@@ -1,0 +1,145 @@
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe.config
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\bin\Debug\PluggableRepoClient.pdb
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.csprojResolveAssemblyReference.cache
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\obj\Debug\MainWindow.g.cs
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\obj\Debug\Window1.g.cs
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\obj\Debug\App.g.cs
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.cache
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.lref
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\obj\Debug\MainWindow.baml
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\obj\Debug\Window1.baml
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.g.resources
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.Properties.Resources.resources
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.GenerateResource.Cache
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.CoreCompileInputs.cache
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.exe
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\obj\Debug\PluggableRepoClient.pdb
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\bin\Debug\StorageComponent.dll
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\bin\Debug\IPluggable.dll
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\bin\Debug\StorageComponent.pdb
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\bin\Debug\StorageComponent.dll.config
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\bin\Debug\IPluggable.pdb
+E:\Syracuse\Sem 1\SMA\Code\PluggableRepoClient\PluggableRepoClient\bin\Debug\IPluggable.dll.config
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe.config
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\bin\Debug\PluggableRepoClient.pdb
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\bin\Debug\BuildServerMessages.dll
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\bin\Debug\CommChannelDemo.exe
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\bin\Debug\Communication.exe
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\bin\Debug\Messages.exe
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\bin\Debug\TestDeserialization.exe
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\bin\Debug\CS-BlockingQueue.exe
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\bin\Debug\BuildServerMessages.pdb
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\bin\Debug\BuildServerMessages.dll.config
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\bin\Debug\CommChannelDemo.pdb
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\bin\Debug\CommChannelDemo.exe.config
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\bin\Debug\Communication.pdb
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\bin\Debug\Communication.exe.config
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\bin\Debug\Messages.pdb
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\bin\Debug\Messages.exe.config
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\bin\Debug\TestDeserialization.pdb
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\bin\Debug\TestDeserialization.exe.config
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\bin\Debug\CS-BlockingQueue.exe.config
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\obj\Debug\PluggableRepoClient.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\obj\Debug\Window1.g.cs
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.cache
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.lref
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\obj\Debug\Window1.baml
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\obj\Debug\PluggableRepoClient.g.resources
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\obj\Debug\PluggableRepoClient.Properties.Resources.resources
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\obj\Debug\PluggableRepoClient.exe
+C:\Users\lenovo\Desktop\SMA\project 3\CommChannelDemo\PluggableRepoClient\obj\Debug\PluggableRepoClient.pdb
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe.config
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\bin\Debug\PluggableRepoClient.pdb
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\bin\Debug\BuildServerMessages.dll
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\bin\Debug\CommChannelDemo.exe
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\bin\Debug\Communication.exe
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\bin\Debug\Messages.exe
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\bin\Debug\TestDeserialization.exe
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\bin\Debug\CS-BlockingQueue.exe
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\bin\Debug\BuildServerMessages.pdb
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\bin\Debug\BuildServerMessages.dll.config
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\bin\Debug\CommChannelDemo.pdb
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\bin\Debug\CommChannelDemo.exe.config
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\bin\Debug\Communication.pdb
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\bin\Debug\Communication.exe.config
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\bin\Debug\Messages.pdb
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\bin\Debug\Messages.exe.config
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\bin\Debug\TestDeserialization.pdb
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\bin\Debug\TestDeserialization.exe.config
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\bin\Debug\CS-BlockingQueue.exe.config
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\obj\Debug\PluggableRepoClient.csprojResolveAssemblyReference.cache
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\obj\Debug\MainWindow.g.cs
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\obj\Debug\Window1.g.cs
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\obj\Debug\App.g.cs
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.cache
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.lref
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\obj\Debug\MainWindow.baml
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\obj\Debug\Window1.baml
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\obj\Debug\PluggableRepoClient.g.resources
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\obj\Debug\PluggableRepoClient.Properties.Resources.resources
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.GenerateResource.Cache
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.CoreCompileInputs.cache
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\obj\Debug\PluggableRepoClient.exe
+C:\Users\dwive\Downloads\CommChannelDemo\CommChannelDemo\PluggableRepoClient\obj\Debug\PluggableRepoClient.pdb
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.csprojResolveAssemblyReference.cache
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\obj\Debug\MainWindow.g.cs
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\obj\Debug\Window1.g.cs
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\obj\Debug\App.g.cs
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.cache
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.lref
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.exe
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.pdb
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe.config
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\bin\Debug\PluggableRepoClient.pdb
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\bin\Debug\IService.dll
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\bin\Debug\PluggableCommService.exe
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\bin\Debug\XMLHandler.exe
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\bin\Debug\XMLHandler.pdb
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\bin\Debug\XMLHandler.exe.config
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\bin\Debug\IService.pdb
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\bin\Debug\IService.dll.config
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\bin\Debug\PluggableCommService.pdb
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\bin\Debug\PluggableCommService.exe.config
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\obj\Debug\MainWindow.baml
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\obj\Debug\Window1.baml
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.g.resources
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.Properties.Resources.resources
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.GenerateResource.Cache
+C:\Users\dwive\Downloads\Project3Help\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.CoreCompileInputs.cache
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\bin\Debug\IService.dll
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\bin\Debug\MessagePassingCommService.exe
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\bin\Debug\XMLHandler.exe
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\bin\Debug\IService.pdb
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\bin\Debug\IService.dll.config
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\bin\Debug\MessagePassingCommService.pdb
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\bin\Debug\XMLHandler.pdb
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\bin\Debug\XMLHandler.exe.config
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\obj\Debug\PluggableRepoClient.csprojResolveAssemblyReference.cache
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\obj\Debug\MainWindow.g.cs
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\obj\Debug\Window1.g.cs
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\obj\Debug\App.g.cs
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.cache
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\obj\Debug\PluggableRepoClient_MarkupCompile.lref
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\obj\Debug\MainWindow.baml
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\obj\Debug\Window1.baml
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\obj\Debug\PluggableRepoClient.g.resources
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\obj\Debug\PluggableRepoClient.Properties.Resources.resources
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.GenerateResource.Cache
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\obj\Debug\PluggableRepoClient.csproj.CoreCompileInputs.cache
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\obj\Debug\PluggableRepoClient.exe
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\obj\Debug\PluggableRepoClient.pdb
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\bin\Debug\PluggableRepoClient.exe.config
+C:\Users\dwive\source\repos\Project3V1\PluggableRepoClient\bin\Debug\PluggableRepoClient.pdb

@@ -1,0 +1,196 @@
+05/14/2017 6:14:44 PM: Successfully Builded files without Error
+
+05/14/2017 6:14:44 PM: Build Successful for these files:
+
+05/14/2017 6:14:44 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+05/14/2017 6:14:44 PM: Error of Build is:
+
+05/14/2017 6:14:44 PM: Build Success
+
+05/14/2017 6:14:50 PM: Successfully Builded files without Error
+
+05/14/2017 6:14:50 PM: Build Successful for these files:
+
+05/14/2017 6:14:50 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+05/14/2017 6:14:51 PM: Error of Build is:
+
+05/14/2017 6:14:51 PM: Build Success
+
+05/15/2017 6:15:50 PM: Successfully Builded files without Error
+
+05/15/2017 6:15:50 PM: Build Successful for these files:
+
+05/15/2017 6:15:50 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+05/15/2017 6:15:50 PM: Error of Build is:
+
+05/15/2017 6:15:50 PM: Build Success
+
+05/22/2017 6:22:31 PM: Successfully Builded files without Error
+
+05/22/2017 6:22:31 PM: Build Successful for these files:
+
+05/22/2017 6:22:31 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+05/22/2017 6:22:31 PM: Error of Build is:
+
+05/22/2017 6:22:31 PM: Build Success
+
+06/49/2017 8:49:48 PM: Successfully Builded files without Error
+
+06/49/2017 8:49:48 PM: Build Successful for these files:
+
+06/49/2017 8:49:48 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+06/49/2017 8:49:48 PM: Error of Build is:
+
+06/49/2017 8:49:48 PM: Build Success
+
+06/50/2017 8:50:56 PM: Successfully Builded files without Error
+
+06/50/2017 8:50:56 PM: Build Successful for these files:
+
+06/50/2017 8:50:56 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+06/50/2017 8:50:56 PM: Error of Build is:
+
+06/50/2017 8:50:56 PM: Build Success
+
+06/51/2017 8:51:09 PM: Successfully Builded files without Error
+
+06/51/2017 8:51:09 PM: Build Successful for these files:
+
+06/51/2017 8:51:09 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+06/51/2017 8:51:09 PM: Error of Build is:
+
+06/51/2017 8:51:09 PM: Build Success
+
+06/25/2017 10:25:07 PM: Successfully Builded files without Error
+
+06/25/2017 10:25:07 PM: Build Successful for these files:
+
+06/25/2017 10:25:07 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+06/25/2017 10:25:07 PM: Error of Build is:
+
+06/25/2017 10:25:07 PM: Build Success
+
+06/25/2017 10:25:15 PM: Successfully Builded files without Error
+
+06/25/2017 10:25:15 PM: Build Successful for these files:
+
+06/25/2017 10:25:15 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+06/25/2017 10:25:15 PM: Error of Build is:
+
+06/25/2017 10:25:15 PM: Build Success
+
+06/26/2017 10:26:19 PM: Successfully Builded files without Error
+
+06/26/2017 10:26:19 PM: Build Successful for these files:
+
+06/26/2017 10:26:19 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+06/26/2017 10:26:19 PM: Error of Build is:
+
+06/26/2017 10:26:19 PM: Build Success
+
+06/26/2017 10:26:33 PM: Successfully Builded files without Error
+
+06/26/2017 10:26:33 PM: Build Successful for these files:
+
+06/26/2017 10:26:33 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+06/26/2017 10:26:33 PM: Error of Build is:
+
+06/26/2017 10:26:33 PM: Build Success
+
+06/24/2017 11:24:07 PM: Successfully Builded files without Error
+
+06/24/2017 11:24:07 PM: Build Successful for these files:
+
+06/24/2017 11:24:07 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+06/24/2017 11:24:07 PM: Error of Build is:
+
+06/24/2017 11:24:07 PM: Build Success
+
+06/24/2017 11:24:10 PM: Sent file:testRequest-8083.xml
+
+06/24/2017 11:24:10 PM: Sent file:TestDriver1.dll
+
+06/24/2017 11:24:12 PM: Sent file:8083BuildLog.txt
+
+06/24/2017 11:24:12 PM: Sent Messege to TH
+
+06/29/2017 11:29:11 PM: Successfully Builded files without Error
+
+06/29/2017 11:29:12 PM: Build Successful for these files:
+
+06/29/2017 11:29:12 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+06/29/2017 11:29:12 PM: Error of Build is:
+
+06/29/2017 11:29:12 PM: Build Success
+
+06/29/2017 11:29:18 PM: Successfully Builded files without Error
+
+06/29/2017 11:29:18 PM: Build Successful for these files:
+
+06/29/2017 11:29:18 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+06/29/2017 11:29:18 PM: Error of Build is:
+
+06/29/2017 11:29:18 PM: Build Success
+
+06/29/2017 11:29:20 PM: Sent file:testRequest-8083.xml
+
+06/29/2017 11:29:20 PM: Sent file:TestDriver1.dll
+
+06/29/2017 11:29:20 PM: Sent file:TestDriver2.dll
+

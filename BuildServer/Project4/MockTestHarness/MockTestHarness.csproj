@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D912AC55-690F-4AAA-887A-D4731F606100}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>MockTestHarness</RootNamespace>
+    <AssemblyName>MockTestHarness</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;TEST_MOCKTH</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DllLoader.cs" />
+    <Compile Include="MockTestHarness.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FileSystemManager\FileSystemManager.csproj">
+      <Project>{03c0a6bc-f6a9-467e-9ba7-9e78d8c3ae3a}</Project>
+      <Name>FileSystemManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IService\IMessagePassingCommService.csproj">
+      <Project>{97410bbc-cd85-46da-9e89-c822e752dc4d}</Project>
+      <Name>IMessagePassingCommService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Logger\Logger.csproj">
+      <Project>{113ed25b-a559-4892-9fc8-506a8d67af24}</Project>
+      <Name>Logger</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MessagePassingCommService\MessagePassingCommService.csproj">
+      <Project>{5e3d4eec-66e0-4e9d-951c-f2d4465acdb4}</Project>
+      <Name>MessagePassingCommService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MockBuild\MockBuild.csproj">
+      <Project>{514bf628-0e67-4063-b067-c93bb5013ae3}</Project>
+      <Name>MockBuild</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MockRepo\MockRepo.csproj">
+      <Project>{3f31623c-6f86-43c2-a5f2-1bf3323c3c69}</Project>
+      <Name>MockRepo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\XMLHandler\XMLHandler.csproj">
+      <Project>{42c2d3d2-4430-469c-9685-f598abf20d2e}</Project>
+      <Name>XMLHandler</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

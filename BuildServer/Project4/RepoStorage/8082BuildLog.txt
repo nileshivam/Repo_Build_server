@@ -1,0 +1,144 @@
+05/15/2017 6:15:49 PM: Successfully Builded files without Error
+
+05/15/2017 6:15:49 PM: Build Successful for these files:
+
+05/15/2017 6:15:49 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+05/15/2017 6:15:50 PM: Error of Build is:
+
+05/15/2017 6:15:50 PM: Build Success
+
+05/15/2017 6:15:55 PM: Successfully Builded files without Error
+
+05/15/2017 6:15:55 PM: Build Successful for these files:
+
+05/15/2017 6:15:55 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+05/15/2017 6:15:55 PM: Error of Build is:
+
+05/15/2017 6:15:55 PM: Build Success
+
+05/22/2017 6:22:31 PM: Successfully Builded files without Error
+
+05/22/2017 6:22:31 PM: Build Successful for these files:
+
+05/22/2017 6:22:31 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+05/22/2017 6:22:31 PM: Error of Build is:
+
+05/22/2017 6:22:31 PM: Build Success
+
+05/22/2017 6:22:45 PM: Successfully Builded files without Error
+
+05/22/2017 6:22:45 PM: Build Successful for these files:
+
+05/22/2017 6:22:45 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+05/22/2017 6:22:45 PM: Error of Build is:
+
+05/22/2017 6:22:45 PM: Build Success
+
+06/50/2017 8:50:56 PM: Successfully Builded files without Error
+
+06/50/2017 8:50:56 PM: Build Successful for these files:
+
+06/50/2017 8:50:56 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+06/50/2017 8:50:56 PM: Error of Build is:
+
+06/50/2017 8:50:56 PM: Build Success
+
+06/25/2017 10:25:07 PM: Successfully Builded files without Error
+
+06/25/2017 10:25:07 PM: Build Successful for these files:
+
+06/25/2017 10:25:07 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+06/25/2017 10:25:07 PM: Error of Build is:
+
+06/25/2017 10:25:07 PM: Build Success
+
+06/26/2017 10:26:19 PM: Successfully Builded files without Error
+
+06/26/2017 10:26:19 PM: Build Successful for these files:
+
+06/26/2017 10:26:19 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+06/26/2017 10:26:19 PM: Error of Build is:
+
+06/26/2017 10:26:19 PM: Build Success
+
+06/24/2017 11:24:07 PM: Successfully Builded files without Error
+
+06/24/2017 11:24:11 PM: Build Successful for these files:
+
+06/24/2017 11:24:11 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+06/24/2017 11:24:11 PM: Error of Build is:
+
+06/24/2017 11:24:11 PM: Build Success
+
+06/24/2017 11:24:18 PM: Successfully Builded files without Error
+
+06/24/2017 11:24:18 PM: Build Successful for these files:
+
+06/24/2017 11:24:18 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+06/24/2017 11:24:18 PM: Error of Build is:
+
+06/24/2017 11:24:19 PM: Build Success
+
+06/24/2017 11:24:21 PM: Sent file:testRequest-8082.xml
+
+06/24/2017 11:24:21 PM: Sent file:TestDriver1.dll
+
+06/24/2017 11:24:21 PM: Sent file:TestDriver2.dll
+
+06/24/2017 11:24:23 PM: Sent file:8082BuildLog.txt
+
+06/24/2017 11:24:23 PM: Sent Messege to TH
+
+06/29/2017 11:29:11 PM: Successfully Builded files without Error
+
+06/29/2017 11:29:11 PM: Build Successful for these files:
+
+06/29/2017 11:29:12 PM: Output of Build is:Microsoft (R) Visual C# Compiler version 2.3.2.62019 (b7354608)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+
+06/29/2017 11:29:12 PM: Error of Build is:
+
+06/29/2017 11:29:12 PM: Build Success
+
+06/29/2017 11:29:14 PM: Sent file:testRequest-8082.xml
+
+06/29/2017 11:29:14 PM: Sent file:TestDriver1.dll
+
